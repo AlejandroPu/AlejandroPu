@@ -6,7 +6,7 @@
 
 I am a Chilean-trained Information Technology Engineer (*Ingeniero Civil Informático*), a five-year degree internationally recognized between a Bachelor's and a Master's level (ZAB statement). I graduated in 2025 with a strong foundation in both software engineering principles and hands-on development.
 
-Before completing my degree through the Startup School track, I had been pursuing a Master's degree (Magister en Ciencias de la Ingeniería). I completed all but one course of the Master's coursework before switching paths.
+I graduated in 2025 after transitioning from a Master's track (Magister en Ciencias de la Ingeniería) — completing all but one course — to the Startup School specialization within the same program.
 
 I am self-taught at heart — curious by nature and quick to pick up any technology I need. I enjoy connecting dots across disciplines and am currently looking for my first professional role to focus and deepen my learning path.
 
