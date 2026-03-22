@@ -4,9 +4,9 @@
 
 ---
 
-I am a Chilean-trained Information Technology Engineer (*Ingeniero Civil Informático*), a five-year degree internationally recognized between a Bachelor's and a Master's level (ZAB statement). I graduated in 2025 after transitioning from a Master's track (Magister en Ciencias de la Ingeniería) — completing all but one course — to the Startup School specialization within the same program. In hindsight, I recognize the value a Master's degree carries in the German academic and professional landscape.
+I am a Chilean trained Information Technology Engineer (*Ingeniero Civil Informático*), a five-year degree internationally recognized between a Bachelor's and a Master's level (ZAB statement). I graduated in 2025 after transitioning from a Master's track (Magister en Ciencias de la Ingeniería) — completing all but one course — to the Startup School specialization within the same program. In hindsight, I recognize the value a Master's degree carries in the German academic and professional landscape.
 
-I am self-taught at heart — curious by nature and quick to pick up any technology I need. I enjoy connecting dots across disciplines and am currently looking for my first professional role to focus and deepen my learning path.
+I am self taught at heart — curious by nature and quick to pick up any technology I need. I enjoy connecting dots across disciplines and am currently looking for my first professional role to focus and deepen my learning path.
 
 ---
 
