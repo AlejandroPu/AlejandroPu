@@ -33,4 +33,8 @@ I am self-taught at heart — curious by nature and quick to pick up any technol
 
 ---
 
+- For videos of me programming, please visit my [YouTube playlist](https://www.youtube.com/playlist?list=PLLWpzRBlOIXRjvo-WCCYsJjXrnmcfHNSJ).
+
+---
+
 *Feel free to reach out if you want to collaborate or just talk tech!*
