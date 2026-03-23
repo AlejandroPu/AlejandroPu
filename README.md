@@ -36,7 +36,7 @@ I am self taught at heart — curious by nature and quick to pick up any technol
 > [!IMPORTANT]
 > For videos of me programming, please visit my [YouTube playlist](https://www.youtube.com/playlist?list=PLLWpzRBlOIXRjvo-WCCYsJjXrnmcfHNSJ).
 >
-> ❗ **My programming and 'engineering' experience prior to academia is much broader than what this GitHub shows.**
+> ❗ **My programming and 'engineering' experience prior to academia(5-year program) is much broader than what this GitHub shows.**
 
 ---
 
