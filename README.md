@@ -12,8 +12,9 @@ I am self taught at heart — curious by nature and quick to pick up any technol
 
 ## Technical Skills
 
-- **Main:** CLAUDE CODE, LLM models, HTML, CSS, Python
+- **Main:** HTML, CSS, Python
 - **Also worked with(before ~2020):** JavaScript, jQuery, PHP, SQL, C, C++, R, Linux, Laravel, VBA for Excel, AutoHotkey, MQL4, Basic for Atari
+- **Actively learning:** Claude code and LLM models
 
 ---
 
