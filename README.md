@@ -10,14 +10,10 @@ Self-taught long before university, curious by nature, I started long before any
 
 ---
 
-## Technical Skills
+## Technical Skills *(pre-LLM era, before 2022)*
 
-- **Main (before ~2022):** HTML, CSS, Python
-- **Also worked with (before ~2022):** JavaScript, jQuery, PHP, SQL, C, C++, R, Linux, Laravel, VBA for Excel, AutoHotkey, MQL4, Basic for Atari
-- **Actively learning:** Claude code and LLM models
-
-![Claude Code usage](img/Claude-code-usage-260417.png)
-*Screenshot taken on April 17, 2026.*
+- **Main:** HTML, CSS, Python
+- **Also worked with:** JavaScript, jQuery, PHP, SQL, C, C++, R, Linux, Laravel, VBA for Excel, AutoHotkey, MQL4, Basic for Atari
 
 ---
 
@@ -34,6 +30,10 @@ Self-taught long before university, curious by nature, I started long before any
 - 🎓 Recently graduated (2025)
 - 🔍 Open to work — seeking opportunities in software development
 - 📚 Always learning the next tool I need
+- **Actively learning:** Claude Code (2026) and LLM models development
+
+![Claude Code usage](img/Claude-code-usage-260417.png)
+*Screenshot taken on April 17, 2026.*
 
 ---
 
