@@ -40,7 +40,7 @@ Self-taught long before university, curious by nature, I started long before any
 > [!IMPORTANT]
 > Watch me code! Visit my [YouTube playlist here](https://www.youtube.com/playlist?list=PLLWpzRBlOIXRjvo-WCCYsJjXrnmcfHNSJ).
 >
-> ❗ **My programming and 'engineering' experience prior to academia(5-year program) is much broader than what this GitHub shows.**
+> ❗ **My programming and 'engineering' experience prior to academia (5-year program, internationally recognized as between a Bachelor's and a Master's level per ZAB assessment) is much broader than what this GitHub shows.**
 
 ---
 
