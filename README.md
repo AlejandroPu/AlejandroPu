@@ -12,8 +12,8 @@ Self-taught long before university, curious by nature, I started long before any
 
 ## Technical Skills *(pre-LLM era, before 2022)*
 
-- **Main:** HTML, CSS, Python
-- **Also worked with:** JavaScript, jQuery, PHP, SQL, C, C++, R, Linux, Laravel, VBA for Excel, AutoHotkey, MQL4, Basic for Atari
+- **Main:** Python, HTML, CSS, JavaScript, jQuery
+- **Also worked with:** PHP, SQL, C, C++, R, Linux, Laravel, VBA for Excel, AutoHotkey, MQL4, Basic for Atari
 
 ---
 
