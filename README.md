@@ -1,12 +1,12 @@
 # 👋 Welcome! I'm Francisco Alejandro Retamal Reinoso
 
-**Information Technology Engineer | Software Developer | Python & Web Enthusiast | Fast Learner**
+**Information Technology Engineer | Thinking about what comes next — BCI, nanotech, AI**
 
 ---
 
-I am a Chilean trained Information Technology Engineer (*Ingeniero Civil Informático*), a five-year degree internationally recognized between a Bachelor's and a Master's level (ZAB statement). I graduated in 2025 after transitioning from a Master's track (Magister en Ciencias de la Ingeniería) — completing all but one course — to the Startup School specialization within the same program. In hindsight, I recognize the value a Master's degree carries in the German academic and professional landscape( even with my whole expierence and focus).
+I hold a five-year *Ingeniero Civil Informático* degree (Information Technology Engineering) — internationally recognized as between a Bachelor's and a Master's level per ZAB assessment. During my program I also completed all but one course of the Master's in Engineering Sciences track; I chose to redirect toward the Startup School specialization instead of the common path of the majority, the "Capstone project". The academic depth of that near-Master's path remains part of what I bring — it's a distinction I keep visible: it matters in contexts where academic depth is weighed seriously, including future doctoral or research paths.
 
-I am self taught at heart — curious by nature and quick to pick up any technology I need. I enjoy connecting dots across disciplines and am currently looking for my first professional role to focus and deepen my learning path.
+Self-taught long before university, curious by nature, I started long before any formal program to build intuition for how technologies connect and compound, quick to pick up any technology I need. And that has told me the relevant thing isn't the next job, it's the next decade of technology. I've been writing code since well before university, and I'm looking for my first professional role not to clock in, but to focus that direction and build seriously. Based in Chile, open to relocation.
 
 ---
 
@@ -15,6 +15,8 @@ I am self taught at heart — curious by nature and quick to pick up any technol
 - **Main:** HTML, CSS, Python
 - **Also worked with(before ~2020):** JavaScript, jQuery, PHP, SQL, C, C++, R, Linux, Laravel, VBA for Excel, AutoHotkey, MQL4, Basic for Atari
 - **Actively learning:** Claude code and LLM models
+
+![Claude Code usage](img/Claude-code-usage-260417.png)
 
 ---
 
@@ -35,10 +37,12 @@ I am self taught at heart — curious by nature and quick to pick up any technol
 ---
 
 > [!IMPORTANT]
-> For videos of me programming, please visit my [YouTube playlist](https://www.youtube.com/playlist?list=PLLWpzRBlOIXRjvo-WCCYsJjXrnmcfHNSJ).
+> Watch me code! Visit my [YouTube playlist here](https://www.youtube.com/playlist?list=PLLWpzRBlOIXRjvo-WCCYsJjXrnmcfHNSJ).
 >
 > ❗ **My programming and 'engineering' experience prior to academia(5-year program) is much broader than what this GitHub shows.**
 
 ---
 
-*Feel free to reach out if you want to collaborate or just talk tech!*
+*Feel free to reach out*
+- 💼 [LinkedIn](https://github.com/AlejandroPu)
+*Open to opportunities, collaborations, or just talk tech!*
