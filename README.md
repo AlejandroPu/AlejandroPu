@@ -17,6 +17,7 @@ Self-taught long before university, curious by nature, I started long before any
 - **Actively learning:** Claude code and LLM models
 
 ![Claude Code usage](img/Claude-code-usage-260417.png)
+*Screenshot taken on April 17, 2026.*
 
 ---
 
