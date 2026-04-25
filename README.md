@@ -32,7 +32,7 @@ Self-taught long before university, curious by nature, I started long before any
 - 📚 Always learning the next tool I need
 - **Actively learning:** Claude Code (2026) and LLM models development
 
-![Claude Code usage](img/Claude-code-usage-260425.png)
+![Claude Code usage](img/Claude-code-usage-260425b.png)
 *Screenshot taken on April 25, 2026.*
 
 - Currently working on a new project, [LookThisOne](https://github.com/AlejandroPu/LookThisOne)
