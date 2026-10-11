@@ -4,6 +4,47 @@ All notable changes to this GitHub profile README are documented here.
 
 ---
 
+## [v1.3.1] — 2026-10-10
+
+### Changed
+- `.gitignore`: ignore local workflow files (`.private/`, `.localgit/`, `.claude/lanes/`, `.claude/settings.json`, Claude Code runtime files) and `.env*`
+- Backfilled this changelog with v1.2.0 – v1.3.0
+
+---
+
+## [v1.3.0] — 2026-09-17
+
+### Added
+- Animation of Claude Code usage snapshots (April 9 – September 16, 2026), replacing the static screenshot
+- Currently: second version of LookThisOne, working almost exclusively with Claude Code since May 2026, the [claude-skills](https://github.com/AlejandroPu/claude-skills) repo, and [claude-pair-sudoku](https://github.com/AlejandroPu/claude-pair-sudoku) evolving into [cerebritos.cl/games](https://cerebritos.cl/games)
+
+### Changed
+- Graduation line now reads *Graduated in May 2025 (though I actually finished everything by late 2024)*
+- Intro wording: *I began early on to build intuition…*
+
+### Fixed
+- LinkedIn link pointed to the GitHub profile; it now points to LinkedIn
+
+---
+
+## [v1.2.1] — 2026-05-03
+
+### Fixed
+- LookThisOne link now points to the `LookThisOne-v1` repository
+
+---
+
+## [v1.2.0] — 2026-04-25
+
+### Added
+- *Currently working on a new project, LookThisOne* line (April 23)
+
+### Changed
+- Claude Code usage screenshot refreshed on April 23, 24 and 25, 2026
+- `.gitignore`: ignore the local `AGENTS.md`
+
+---
+
 ## [v1.1.0] — 2026-04-19
 
 ### Changed
