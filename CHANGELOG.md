@@ -4,6 +4,13 @@ All notable changes to this GitHub profile README are documented here.
 
 ---
 
+## [v1.4.1] — 2026-10-16
+
+### Changed
+- Subtitle: *Thinking about what comes next — BCI, nanotech, robotics, AI* (robotics added)
+
+---
+
 ## [v1.4.0] — 2026-10-16
 
 ### Added

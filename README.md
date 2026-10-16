@@ -1,6 +1,6 @@
 # 👋 Welcome! I'm Francisco Alejandro Retamal Reinoso
 
-**Information Technology Engineer | Thinking about what comes next — BCI, nanotech, AI**
+**Information Technology Engineer | Thinking about what comes next — BCI, nanotech, robotics, AI**
 
 ---
 
