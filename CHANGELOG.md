@@ -4,6 +4,18 @@ All notable changes to this GitHub profile README are documented here.
 
 ---
 
+## [v1.4.0] — 2026-10-16
+
+### Added
+- Currently: a line listing some of my latest public projects — [stdoer-npp-plugin](https://github.com/AlejandroPu/stdoer-npp-plugin), [claude-skills](https://github.com/AlejandroPu/claude-skills), [teleprompter-project](https://github.com/AlejandroPu/teleprompter-project), [LookThisOne-v1](https://github.com/AlejandroPu/LookThisOne-v1), [claude-pair-sudoku](https://github.com/AlejandroPu/claude-pair-sudoku)
+
+### Changed
+- Currently: the LookThis.One line now links to the site, [lookthis.one](https://lookthis.one), and says the code lives in a private repository under the [company account](https://github.com/LookThisOne)
+- Currently: the Claude Code line and the claude-skills line merged into one — *Since May 2026, working almost exclusively with Claude Code. Out of that work came two Claude Code skills…*
+- Currently: the claude-pair-sudoku line moved to the end of the list
+
+---
+
 ## [v1.3.1] — 2026-10-10
 
 ### Changed
