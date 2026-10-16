@@ -39,7 +39,7 @@ Self-taught long before university, curious by nature, I began early on to build
 - Since May 2026, working almost exclusively with Claude Code
 - Built two Claude Code skills for my own development workflow: [claude-skills](https://github.com/AlejandroPu/claude-skills)
 - [claude-pair-sudoku](https://github.com/AlejandroPu/claude-pair-sudoku) — evolved into a currently private repository that lives online at [cerebritos.cl/games](https://cerebritos.cl/games)
-- These are some of my latest projects: [stdoer-npp-plugin](https://github.com/AlejandroPu/stdoer-npp-plugin), [claude-skills](https://github.com/AlejandroPu/claude-skills), [teleprompter-project](https://github.com/AlejandroPu/teleprompter-project), [LookThisOne-v1](https://github.com/AlejandroPu/LookThisOne-v1), [claude-pair-sudoku](https://github.com/AlejandroPu/claude-pair-sudoku)
+- These are some of my latest public projects: [stdoer-npp-plugin](https://github.com/AlejandroPu/stdoer-npp-plugin), [claude-skills](https://github.com/AlejandroPu/claude-skills), [teleprompter-project](https://github.com/AlejandroPu/teleprompter-project), [LookThisOne-v1](https://github.com/AlejandroPu/LookThisOne-v1), [claude-pair-sudoku](https://github.com/AlejandroPu/claude-pair-sudoku)
 ---
 
 > [!IMPORTANT]
