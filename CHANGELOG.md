@@ -4,6 +4,13 @@ All notable changes to this GitHub profile README are documented here.
 
 ---
 
+## [v1.4.0] — 2026-10-16
+
+### Added
+- Currently: a line listing some of my latest projects — [stdoer-npp-plugin](https://github.com/AlejandroPu/stdoer-npp-plugin), [claude-skills](https://github.com/AlejandroPu/claude-skills), [teleprompter-project](https://github.com/AlejandroPu/teleprompter-project), [LookThisOne-v1](https://github.com/AlejandroPu/LookThisOne-v1), [claude-pair-sudoku](https://github.com/AlejandroPu/claude-pair-sudoku)
+
+---
+
 ## [v1.3.1] — 2026-10-10
 
 ### Changed
