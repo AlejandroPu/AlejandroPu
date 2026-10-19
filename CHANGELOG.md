@@ -4,6 +4,22 @@ All notable changes to this GitHub profile README are documented here.
 
 ---
 
+## [v1.5.0] - 2026-10-19
+
+### Added
+- Technical Skills: *What I've learnt these last few years*, with LookThis.One built through AI agents
+- Interests: Robotics and AI agents
+- Currently: the story of the job search - degree assessed in Germany (ZAB, September 2025), applications there from October 2025, LookThis.One, looking in Chile since October 2026, still open to Germany, including a research associate position (*wissenschaftlicher Mitarbeiter*)
+
+### Changed
+- Subtitle: a colon instead of a dash
+- Technical Skills: the pre-2022 skills now sit under *Before 2022 (pre-LLM era)*
+- Currently: LookThis.One is in production since July 2026; the "Actively learning" line removed; project links no longer repeated
+- IMPORTANT box: the ZAB parenthesis removed
+- Dashes: plain hyphens instead of em dashes, except in the intro
+
+---
+
 ## [v1.4.1] — 2026-10-16
 
 ### Changed
